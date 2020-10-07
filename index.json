@@ -6,6 +6,7 @@
         "description": "this is dev2"
     },
     "feature-on-the back": {
-        "config": {}
+        "config": {},
+        "title": "some title"
     }
 }
