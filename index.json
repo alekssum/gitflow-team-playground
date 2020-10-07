@@ -25,5 +25,8 @@
         "config": {},
         "title": "some title",
         "description": "some descrition"
+    },
+    "back2": {
+        "settings": {}
     }
 }
