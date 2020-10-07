@@ -1,6 +1,7 @@
 {
     "title": "index",
     "dev-2": "feature-start-dev-2",
+    "description": "description",
     "dev2": {
         "title": "dev2",
         "description": "this is dev2"
@@ -12,6 +13,7 @@
         "title": "wtf"
     },
     "front-3": {
-        "title": "wtf is git flow"
+        "title": "wtf is git flow",
+        "descirption": "description"
     }
 }
