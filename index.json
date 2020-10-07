@@ -4,5 +4,8 @@
     "dev2": {
         "title": "dev2",
         "description": "this is dev2"
+    },
+    "front-1": {
+        "title": "fontend is pain"
     }
 }
