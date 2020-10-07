@@ -1,0 +1,35 @@
+{
+    "title": "index",
+    "dev-2": "feature-start-dev-2",
+    "description": "description",
+    "dev2": {
+        "title": "dev2",
+        "description": "this is dev2"
+    },
+    "front-1": {
+        "title": "fontend is pain"
+    },
+    "front-2": {
+        "title": "wtf"
+    },
+    "front-3": {
+        "title": "wtf is git flow",
+        "descirption": "description",
+        "pain": "frontend",
+        "commit1": "commit1",
+        "commit2": "commit2",
+        "commit3": "commit3",
+        "commit4": "commit4"
+    },
+    "feature-on-the back": {
+        "config": {},
+        "title": "some title",
+        "description": "some descrition"
+    },
+    "back2": {
+        "settings": {},
+        "users": [
+            {"name": "Вася", "email": "вася@gmail.com"}
+        ]
+    }
+}
