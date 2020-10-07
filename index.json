@@ -18,7 +18,8 @@
         "pain": "frontend",
         "commit1": "commit1",
         "commit2": "commit2",
-        "commit3": "commit3"
+        "commit3": "commit3",
+        "commit4": "commit4"
     },
     "feature-on-the back": {
         "config": {},
