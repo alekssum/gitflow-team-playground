@@ -17,7 +17,8 @@
         "descirption": "description",
         "pain": "frontend",
         "commit1": "commit1",
-        "commit2": "commit2"
+        "commit2": "commit2",
+        "commit3": "commit3"
     },
     "feature-on-the back": {
         "config": {},
