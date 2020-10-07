@@ -15,7 +15,8 @@
     "front-3": {
         "title": "wtf is git flow",
         "descirption": "description",
-        "pain": "frontend"
+        "pain": "frontend",
+        "commit1": "commit1"
     },
     "feature-on-the back": {
         "config": {},
