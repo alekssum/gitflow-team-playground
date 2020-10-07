@@ -27,6 +27,9 @@
         "description": "some descrition"
     },
     "back2": {
-        "settings": {}
+        "settings": {},
+        "users": [
+            {"name": "Вася", "email": "вася@gmail.com"}
+        ]
     }
 }
