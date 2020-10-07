@@ -4,5 +4,8 @@
     "dev2": {
         "title": "dev2",
         "description": "this is dev2"
+    },
+    "feature-on-the back": {
+        "config": {}
     }
 }
