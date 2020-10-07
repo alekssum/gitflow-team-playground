@@ -1,4 +1,8 @@
 {
     "title": "index",
-    "dev-2": "feature-start-dev-2"
+    "dev-2": "feature-start-dev-2",
+    "dev2": {
+        "title": "dev2",
+        "description": "this is dev2"
+    }
 }
