@@ -16,5 +16,10 @@
         "title": "wtf is git flow",
         "descirption": "description",
         "pain": "frontend"
+    },
+    "feature-on-the back": {
+        "config": {},
+        "title": "some title",
+        "description": "some descrition"
     }
 }
