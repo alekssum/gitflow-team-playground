@@ -25,5 +25,11 @@
         "config": {},
         "title": "some title",
         "description": "some descrition"
+    },
+    "back2": {
+        "settings": {},
+        "users": [
+            {"name": "Вася", "email": "вася@gmail.com"}
+        ]
     }
 }
